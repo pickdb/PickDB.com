@@ -1,3 +1,3 @@
-# Paddles
+# Pickleball Paddles
 
 ## Gearbox
