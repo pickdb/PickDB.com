@@ -51,10 +51,10 @@ Link (DUPR 3.8-4.2): <https://pickleballkingdom.podplay.app/community/events/c68
 
 ## Friday, November 14, 2025
 
-#### Moneyball - Advanced Mixed Doubles - NOT DUPR Recorded
+#### Moneyball - 4.0-4.8 Men's Doubles - DUPR Recorded
 Location: Pickleball Kingdom Nashville South
 5035 Harding Pl, Nashville, TN 37211  
-Link: <https://pickleballkingdom.podplay.app/community/events/fa205e4f-9433-4a38-b825-da6d86dfcc76>
+Link: <https://pickleballkingdom.podplay.app/community/events/28f5c4e0-ea2d-4904-98a1-bf74d0bb00b1>  
 
 #### Women's DUPR Round Robin Ladder
 Location: Pickleball Kingdom Tigard
@@ -160,6 +160,19 @@ Location: Pickleball Kingdom Tigard
 16800 SW 72nd Ave, Tigard, OR 97224  
 Link: <https://pickleballkingdom.podplay.app/community/events/d57410d6-dded-4e0b-b25b-ace66ba466b1>  
 
+## Friday, December 5, 2026
+
+#### Moneyball - Intermediate Mixed Doubles - DUPR Recorded
+Location: Pickleball Kingdom Nashville South
+5035 Harding Pl, Nashville, TN 37211  
+Link: <https://pickleballkingdom.podplay.app/community/events/d0251d32-74b7-4947-aeb2-ca8a098b3a1c>  
+
+## Friday, December 12, 2025
+
+#### Moneyball - Advanced Mixed Doubles - NOT DUPR Recorded
+Location: Pickleball Kingdom Nashville South
+5035 Harding Pl, Nashville, TN 37211  
+Link: <https://pickleballkingdom.podplay.app/community/events/fa205e4f-9433-4a38-b825-da6d86dfcc76>  
 
 ## Saturday, January 10, 2026
 
@@ -182,5 +195,9 @@ Location: Pickleball Kingdom Belle Hall
 680 Long Point Rd, Mt Pleasant, SC 29464  
 Link: <https://pickleballkingdom.podplay.app/community/events/615f781b-ef4e-42ae-ad5e-d838fdacf834>  
 
+## Saturday, June 13, 2026
 
-
+#### PBK Open II
+Location: Pickleball Kingdom Belle Hall  
+680 Long Point Rd, Mt Pleasant, SC 29464  
+Link: <https://pickleballkingdom.podplay.app/community/events/bbbb8e6e-3ba4-4f48-b698-a6c2625d5683>  
