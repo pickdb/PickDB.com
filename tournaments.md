@@ -23,6 +23,16 @@ Location: Pickleball Kingdom Nashville South
 5035 Harding Pl, Nashville, TN 37211  
 Link: <https://pickleballkingdom.podplay.app/community/events/6d5b1df5-161d-44d4-adcb-36ee042e2894>
 
+#### DUPR Round Robin Rotating Partners
+Location: Pickleball Kingdom Lynnwood  
+3115 196th St SW, Lynnwood, WA 98036  
+Link (DUPR 3.0-3.5): <https://pickleballkingdom.podplay.app/community/events/630c7d0b-d7aa-4d5d-94b1-df21828c1a48>  
+Link (DUPR 3.5-4.0): <https://pickleballkingdom.podplay.app/community/events/f14f6b06-c738-404a-917c-31ef25b708d4>  
+
+#### Saturday Scramble: Intermediate Rotating Round Robin
+Location: Pickleball Kingdom Poulsbo  
+21800 Market Pl NW, Poulsbo, WA 98370  
+Link: <https://pickleballkingdom.podplay.app/community/events/fede9bf3-8e8a-49da-9960-bb4f3b693a7c>  
 
 ## Sunday, November 9, 2025
 
@@ -83,6 +93,17 @@ Location: Pickleball Kingdom Nashville South
 5035 Harding Pl, Nashville, TN 37211  
 Link: <https://pickleballkingdom.podplay.app/community/events/4c5034c3-2b01-46ff-8136-b8c547551ddb>
 
+#### Intermediate Tournament 3.4 & Under DUPR
+Location: Pickleball Kingdom Pflugerville  
+1900 E Howard Ln STE I & E, Pflugerville, TX 78660  
+Link: <https://pickleballkingdom.podplay.app/community/events/76720d95-cc3c-4ba4-bf1b-a35179572e32>  
+
+#### DUPR Round Robin Rotating Partners
+Location: Pickleball Kingdom Lynnwood  
+3115 196th St SW, Lynnwood, WA 98036  
+Link (DUPR 3.0-3.5): <https://pickleballkingdom.podplay.app/community/events/8c488594-e561-4c67-828b-ade40e1e4cd2>  
+Link (DUPR 3.5-4.0): <https://pickleballkingdom.podplay.app/community/events/f96f3cd5-3b27-4114-82f5-e678856fd2b0>  
+
 ## Sunday, November 16, 2025
 
 #### King & Queen Mixed Tournament
@@ -120,6 +141,11 @@ Link (DUPR 3.0-3.4): <https://pickleballkingdom.podplay.app/community/events/9b6
 Link (DUPR 3.4-3.8): <https://pickleballkingdom.podplay.app/community/events/de95ca8f-45df-47fb-a4af-88f1124e9f48>  
 Link (DUPR 3.8-4.2): <https://pickleballkingdom.podplay.app/community/events/39c3321e-eaae-4acc-8993-58906269c128>   
 
+#### DUPR Round Robin Rotating Partners
+Location: Pickleball Kingdom Lynnwood  
+3115 196th St SW, Lynnwood, WA 98036  
+Link (DUPR 3.0-3.5): <https://pickleballkingdom.podplay.app/community/events/61979ad1-f923-456f-8e3d-ed353e716572>  
+Link (DUPR 3.5-4.0): <https://pickleballkingdom.podplay.app/community/events/dda1eea5-d3de-4861-a7e4-f6884e236272>  
 
 ## Sunday, November 23, 2025
 
@@ -153,6 +179,14 @@ Location: Pickleball Kingdom Tigard
 16800 SW 72nd Ave, Tigard, OR 97224  
 Link: <https://pickleballkingdom.podplay.app/community/events/21343ebb-2c55-4864-9ff5-bc67104fa077>  
 
+## Saturday, November 29, 2025
+
+#### DUPR Round Robin Rotating Partners
+Location: Pickleball Kingdom Lynnwood  
+3115 196th St SW, Lynnwood, WA 98036  
+Link (DUPR 3.0-3.5): <https://pickleballkingdom.podplay.app/community/events/97b6b871-2f39-47b8-9552-50963e6a1618>  
+Link (DUPR 3.5-4.0): <https://pickleballkingdom.podplay.app/community/events/4520b272-abb4-4ec2-9347-47eeac07c19f>  
+
 ## Sunday, November 30, 2025
 
 #### Intermediate (Under 3.0) DUPR Round Robin Ladder
@@ -160,7 +194,7 @@ Location: Pickleball Kingdom Tigard
 16800 SW 72nd Ave, Tigard, OR 97224  
 Link: <https://pickleballkingdom.podplay.app/community/events/d57410d6-dded-4e0b-b25b-ace66ba466b1>  
 
-## Friday, December 5, 2026
+## Friday, December 5, 2025
 
 #### Moneyball - Intermediate Mixed Doubles - DUPR Recorded
 Location: Pickleball Kingdom Nashville South
