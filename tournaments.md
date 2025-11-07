@@ -94,6 +94,11 @@ Location: Pickleball Kingdom Belle Hall
 680 Long Point Rd, Mt Pleasant, SC 29464  
 Link: <https://pickleballkingdom.podplay.app/community/events/add330e8-3b51-4ab0-8349-6e13b0e998a6>  
 
+#### Flannel Fest Pickleball Tournament (Nov 15-16)
+Location: Austin Pickle Ranch  
+11000 Middle Fiskville Rd Building B, Austin, TX 78753, USA  
+Link: <https://app.fluidpb.com/tournaments/flannel-fest-pickleball-tournament>
+
 #### APA - The Tennessee Masters
 Location: Pickleball Kingdom Nashville South
 5035 Harding Pl, Nashville, TN 37211  
@@ -129,6 +134,11 @@ Location: Pickleball Kingdom Tigard
 16800 SW 72nd Ave, Tigard, OR 97224  
 Link (DUPR 3.5-4.0): <https://pickleballkingdom.podplay.app/community/events/f34b8b2e-6e71-48ef-b1e6-08a359a3d805>  
 Link (DUPR 3.0-3.5): <https://pickleballkingdom.podplay.app/community/events/a82bc0af-6f7a-416b-9133-47354224ed0f>  
+
+#### Flannel Fest Pickleball Tournament (Nov 15-16)
+Location: Austin Pickle Ranch  
+11000 Middle Fiskville Rd Building B, Austin, TX 78753, USA  
+Link: <https://app.fluidpb.com/tournaments/flannel-fest-pickleball-tournament>
 
 ## Monday, November 17, 2025
 
