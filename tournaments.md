@@ -32,6 +32,11 @@ Location: DTL | Down the Line Sports Center
 4311 Ravensworth Rd, Annandale, VA 22003  
 Link: <https://dtl.podplay.app/community/events/4e1b538e-c30a-4532-b18f-b30d0e708c3f>  
 
+#### Smashing Cancer! With Carilion Clinic
+Location: Performance Pickleball ROA  
+3710 Tom Andrews Rd NW, Roanoke, VA 24019  
+Link: <https://ppbrva.podplay.app/community/events/cedbb189-e87c-4859-a98c-711f87003c91>  
+
 #### DUPR Round Robin Rotating Partners
 Location: Pickleball Kingdom Lynnwood  
 3115 196th St SW, Lynnwood, WA 98036  
@@ -64,6 +69,14 @@ Location: Pickleball Kingdom Poulsbo
 21800 Market Pl NW, Poulsbo, WA 98370  
 Link (11am-1pm): <https://pickleballkingdom.podplay.app/community/events/ff01aa6f-ea7d-42b0-a786-0b4ec67e61cf>  
 Link (7pm-9pm): <https://pickleballkingdom.podplay.app/community/events/a525e5af-01de-4030-a876-dd3721842a33>  
+
+## Tuesday, November 11, 2025
+
+#### Tony Special: Veteran's Day Mini-Tournament
+Location: Location: Performance Pickleball ROA  
+3710 Tom Andrews Rd NW, Roanoke, VA 24019  
+Link (Men): <https://ppbrva.podplay.app/community/events/55e08e61-999c-44c8-a4d1-13b721343622>  
+Link (Women): <https://ppbrva.podplay.app/community/events/a18cd139-f744-48b1-8a0b-a573ddcd19f0>  
 
 ## Thursday, November 13, 2025
 
